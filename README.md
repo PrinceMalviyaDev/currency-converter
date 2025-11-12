@@ -6,7 +6,7 @@ It uses the **Fetch API** to get real-time exchange rates and converts currencie
 ---
 
 ## 🌍 Demo
-[🔗 Live Demo](https://yourusername.github.io/currency-converter/)  
+[🔗 Live Demo](https://princemalviyadev.github.io/currency-converter/)  
 *(Replace the above link with your actual deployed site URL once you publish it.)*
 
 ---
